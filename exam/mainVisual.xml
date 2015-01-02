@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='euc-kr'?>
+<contentsRotator>
+<item order='1' category='E' type='image' title='1' image='zsimg/001.JPG' source='http://www.baidu.com' target='_self' />
+<item order='2' category='E' type='image' title='2' image='zsimg/002.JPG' source='http://www.baidu.com' target='_self' />
+<item order='3' category='E' type='image' title='3' image='zsimg/003.JPG' source='http://www.baidu.com' target='' />
+<item order='4' category='E' type='image' title='4' image='zsimg/004.JPG' source='http://www.baidu.com' target='_self' />
+<item order='5' category='E' type='image' title='5' image='zsimg/005.JPG' source='http://www.baidu.com' />
+<item order='6' category='S' type='image' title='6' image='zsimg/006.JPG' source='http://www.baidu.com' target='' />
+<item order='7' category='S' type='image' title='7' image='zsimg/007.JPG' source='http://www.baidu.com' />
+<item order='8' category='S' type='image' title='8' image='zsimg/008.JPG' source='http://www.baidu.com' />
+<item order='9' category='B' type='image' title='9' image='zsimg/009.JPG' source='http://www.baidu.com' target='' />
+
+</contentsRotator>
